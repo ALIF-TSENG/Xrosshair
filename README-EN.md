@@ -1,4 +1,4 @@
-# Crosshair Overlay Program
+# Xrosshair: X-Shaped crosshair
 
 ## Overview
 This program creates a crosshair overlay on your screen to assist with aiming in FPS (First-Person Shooter) games. The crosshair consists of two diagonal lines intersecting at the center of the screen. The program supports various customization features, including color adjustment, line thickness control, and multi-monitor support.
