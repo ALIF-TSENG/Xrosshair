@@ -97,5 +97,5 @@ pip install PyQt5
 ---
 
 ## License
-This program is provided "as is" for personal use. Modifications and redistribution are allowed. The author is not responsible for any misuse of this software.
+This program is provided for personal use. Modifications and redistribution are allowed. The author is not responsible for any misuse of this software.
 
